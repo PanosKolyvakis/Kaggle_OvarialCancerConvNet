@@ -21,5 +21,5 @@ Kaggle_OvarialCancerConvNet is a deep learning project that leverages a pretrain
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Kaggle_OvarialCancerConvNet.git
+   git clone https://github.com/PanosKolyvakis/Kaggle_OvarialCancerConvNet.git
    cd Kaggle_OvarialCancerConvNet
